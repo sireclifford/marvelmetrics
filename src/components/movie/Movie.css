@@ -1,0 +1,41 @@
+.movie-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.movie-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 2 2 auto;
+}
+
+.movie-title h2,
+.movie-title p {
+  margin: 0;
+}
+
+.movie-title p {
+  font-size: 0.8rem;
+}
+
+.movie-title h2 {
+  font-size: 1rem;
+}
+
+.movie-details p {
+  margin: 0;
+}
+
+.seeds-value {
+  font-size: 1.2rem;
+}
+
+.seeds {
+  font-size: 0.8em;
+}
+
+.movie-list:nth-child(even) {
+  background: #b13867;
+}

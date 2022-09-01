@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test renders with data 1`] = `
+<div
+  className="movie-list"
+>
+  <div
+    className="movie-item"
+  >
+    <div
+      className="movie-title"
+    >
+      <h2>
+        test
+      </h2>
+      <p>
+        Genre:
+      </p>
+    </div>
+    <div
+      className="movie-details"
+    >
+      <p
+        className="seeds-value"
+      >
+        1
+      </p>
+      <p
+        className="seeds"
+      >
+        Rating
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test renders with no data 1`] = `
+<div
+  className="movie-list"
+>
+  <div
+    className="movie-item"
+  >
+    <div
+      className="movie-title"
+    >
+      <h2 />
+      <p>
+        Genre:
+      </p>
+    </div>
+    <div
+      className="movie-details"
+    >
+      <p
+        className="seeds-value"
+      />
+      <p
+        className="seeds"
+      >
+        Rating
+      </p>
+    </div>
+  </div>
+</div>
+`;
