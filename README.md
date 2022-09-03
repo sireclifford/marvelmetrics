@@ -33,6 +33,7 @@
 
   <p align="center">
     <a href="https://storied-dusk-d4d3e5.netlify.app/details/44724">View Demo</a>
+
   </p>
 </div>
 
@@ -107,6 +108,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Your Name - [@sire_clifford](https://twitter.com/sire_clifford) - cliffordowusukwadwo@gmail.com
 
 Project Link: [Marvel Metrics](https://github.com/sireclifford/marvelmetrics)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
