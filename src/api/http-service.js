@@ -6,6 +6,7 @@ const ACTION = (url) => http.get(url);
 const ANIMATION = (url) => http.get(url);
 const FANTASY = (url) => http.get(url);
 const ALL = (url) => http.get(url);
+const MOVIE = (url) => http.get(url);
 
 const HttpService = {
   COMEDY,
@@ -14,6 +15,7 @@ const HttpService = {
   ANIMATION,
   FANTASY,
   ALL,
+  MOVIE,
 };
 
 export default HttpService;

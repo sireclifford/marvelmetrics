@@ -26,16 +26,14 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://github.com/sireclifford/marvelmetrics/blob/6c1350b67a46fa7259290cae23f662abe12dd3e2/metric-app-full.png" alt="Logo" width="400" height="400" />
+    <img src="https://user-images.githubusercontent.com/82734569/187899274-25f65974-3b1b-4f47-879d-2df6c024c051.png" alt="Logo" width="400" height="400">
   </a>
 
-<h3 align="center">Metrics App</h3>
+<h3 align="center">Marvel Metrics</h3>
 
   <p align="center">
-    It's about building a mobile web application to check a list of metrics (numeric values) that you will create making use of React and Redux.
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://storied-dusk-d4d3e5.netlify.app/details/44724">View Demo</a>
+
   </p>
 </div>
 
@@ -109,7 +107,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@sire_clifford](https://twitter.com/sire_clifford) - cliffordowusukwadwo@gmail.com
 
-Project Link: [Project link](https://github.com/sireclifford/marvelmetrics)
+Project Link: [Marvel Metrics](https://github.com/sireclifford/marvelmetrics)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
