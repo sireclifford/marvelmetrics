@@ -32,7 +32,7 @@
 <h3 align="center">Marvel Metrics</h3>
 
   <p align="center">
-    <a href="https://storied-dusk-d4d3e5.netlify.app/details/44724">View Demo</a>
+    <a href="https://storied-dusk-d4d3e5.netlify.app/">View Demo</a>
 
   </p>
 </div>
