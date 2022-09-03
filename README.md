@@ -26,35 +26,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://user-images.githubusercontent.com/82734569/187899274-25f65974-3b1b-4f47-879d-2df6c024c051.png" alt="Logo" width="400" height="400">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Marvel Metrics</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://storied-dusk-d4d3e5.netlify.app/details/44724">View Demo</a>
   </p>
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 ### Built With
-* [![React][React.js]][React-url]
+[![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@sire_clifford](https://twitter.com/sire_clifford) - cliffordowusukwadwo@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [Marvel Metrics](https://github.com/sireclifford/marvelmetrics)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
