@@ -4,3 +4,11 @@
   padding: 10px;
   border-bottom: 1px solid white;
 }
+
+h1.title {
+  align-self: center;
+}
+
+.return {
+  align-self: center;
+}
